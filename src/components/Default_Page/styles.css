@@ -24,7 +24,7 @@
   justify-content: center;
   align-items: center;
   gap: 1.5rem;
-  background-color: rgba(50, 51, 45, 0.925);
+  background-color: rgba(50, 51, 45, 0.979);
   padding: 2rem;
   border-radius: 10px;
   /* margin-left: 10rem; */
@@ -44,7 +44,7 @@
   bottom: 0;
   left: 0;
   background: inherit;
-  filter: blur(13px); 
+  filter: blur(7px); 
   opacity: 1;
 }
 

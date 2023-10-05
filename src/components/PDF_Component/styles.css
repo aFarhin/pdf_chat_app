@@ -50,7 +50,8 @@
   }
   
   .label-container label:hover {
-    background-color: #2563eb;
+    background-color: #770a5f;
+    color: white;
   }
   
   .pdf-container p {
