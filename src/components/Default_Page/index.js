@@ -17,7 +17,7 @@ function DefaultPage() {
         .catch((error) => {
           console.error('Error fetching random image:', error);
         });
-    }, 1500);
+    }, 100);
 
     return () => clearInterval(interval);
   }, []);
