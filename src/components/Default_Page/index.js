@@ -51,7 +51,6 @@ function DefaultPage() {
             style={{
               position: 'absolute',
               bottom: '10rem',
-              // left: '3rem',
               color: 'white',
               textShadow: '2px 3px 8px black',
             }}

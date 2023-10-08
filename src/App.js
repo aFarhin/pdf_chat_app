@@ -3,7 +3,7 @@ import './App.css'
 import { BrowserRouter,Routes,Route } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
 import PDFPage from "./pages/PDFPage";
-import ChatBot from "./pages/ChatBot";
+import ChatBot from "./components/PDF_Component/ChatBot";
 
 function App() {
   return (
